@@ -1,0 +1,25 @@
+ul  ,ol{
+    list-style-position: inside;
+    
+}
+li {list-style: none;}
+h1 {
+    color:red;
+    font-family: Arial;
+}
+h2 
+{
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
+h3 {
+    color:brown;
+    font-family: serif;
+    font-size: 20px;
+    font-style: italic;
+}
+.but{
+    background-color:aquamarine;
+ 
+}

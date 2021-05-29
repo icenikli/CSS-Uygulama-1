@@ -1,0 +1,1 @@
+# İnternetten bulduğumuz fotoğrafların link uzunlukları çok çok uzun olduğu için kod okunaklığı olmayacağından indirmek durumunda kaldım ve buda bazı resimleri 2 kere kullanmak zorunda bıraktı.
